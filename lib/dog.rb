@@ -4,5 +4,5 @@ class Dog
     @breed = "Mutt"
   end
   
-attr_accessor :breed
+attr_accessor :name
 end
