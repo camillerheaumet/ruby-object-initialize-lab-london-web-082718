@@ -8,6 +8,8 @@ class Dog
       @breed = "Mutt"
     end
     
+end
+
 attr_accessor :breed
 
 end
